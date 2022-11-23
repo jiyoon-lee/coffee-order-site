@@ -1,0 +1,22 @@
+{
+  "name": "coffee-order-site",
+  "version": "1.0.0",
+  "description": "프로그래머스 2021 Dev-Matching: 웹 프론트엔드 개발자(하반기) 기출문제",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiyoon-lee/coffee-order-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiyoon-lee/coffee-order-site/issues"
+  },
+  "homepage": "https://github.com/jiyoon-lee/coffee-order-site#readme",
+  "dependencies": {
+    "serve": "^14.1.2"
+  }
+}
